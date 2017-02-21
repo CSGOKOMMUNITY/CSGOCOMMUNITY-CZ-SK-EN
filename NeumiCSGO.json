@@ -1,0 +1,53 @@
+
+    "room":                     "CSGO-COMMUNITY-CZ-SK-EN ¦¦",
+    "author":                   "Neumi",
+    "icon":                     "http://i.imgur.com/y2P3JsH.jpg",
+    "css":                      "",
+    "rules": {
+        "allowAutorespond":     true,
+        "allowAutowoot":        true,
+        "allowAutojoin":        true,
+        "allowAutograb":        true,
+        "allowSmartVote":       true,
+        "allowEmotes":          true,
+        "allowShowingMehs":     true,
+        "forceSmartVote":       false
+    },
+    "ccc": {
+        "admin":                "#43BFC7",
+        "ambassador":           "#4CC417",
+        "host":                 "#E9FFFF",
+        "cohost":               "#E9FFFF",
+        "manager":              "#82CAFF",
+        "bouncer":              "#38ACEC",
+        "rdj":                  "#2B65EC",
+        "subscriber":           "#FFFF00",
+        "friend":               "#null",
+        "user":                 "#98AFC7"
+    },
+    "images": {
+        "background":           "http://i.imgur.com/y2P3JsH.jpg",
+        "playback":             null,
+        "admin":                "https://cdn.radiant.dj/rcs/icons/radiant/admin.png",
+        "ambassador":           "https://cdn.radiant.dj/rcs/icons/radiant/ambassador.png",
+        "host":                 "https://dl.dropboxusercontent.com/s/t70qvqutc7043rd/SM-Host.png?dl=0",
+        "cohost":               "https://dl.dropboxusercontent.com/s/0r4ke3rrbghyhy6/SM-Cohost.png?dl=0",
+        "manager":              "https://dl.dropboxusercontent.com/s/w0b2u64yi1sa6xq/SM-Manager.png?dl=0",
+        "bouncer":              "https://dl.dropboxusercontent.com/s/cr6oqo3gkzluej7/SM-Bouncer.png?dl=0",
+        "rdj":                  "https://dl.dropboxusercontent.com/s/u6io4evqkij2gth/SM-Resdj.png?dl=0",
+        "subscriber":           "https://cdn.radiant.dj/rcs/icons/radiant/subscriber.png"
+    },
+    "autocomplete": [],
+    "emotes": {
+        "custom_test": "https://cdn.radiant.dj/rcs/icons/test_custom.png",
+        "reav": "http://i.imgur.com/y2P3JsH.jpg",
+        "otakuN": "http://i.imgur.com/y2P3JsH.jpg",
+        "havii": "http://i.imgur.com/y2P3JsH.jpg",
+        "izu": "http://i.imgur.com/y2P3JsH.jpg",
+        "weeb": "http://i.imgur.com/y2P3JsH.jpg",
+        "ummmm": "http://i235.photobucket.com/albums/ee319/DeathOfBlades/AngelBeatslovethisanime_01166c_1458477.gif",
+        "ben": "http://i.imgur.com/y2P3JsH.jpg",
+        "amaze": "http://i.imgur.com/y2P3JsH.jpg"
+
+    }
+}
